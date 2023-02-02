@@ -12,4 +12,9 @@ Showing off some projects I've worked on during my time at SFU.
 ![image](https://user-images.githubusercontent.com/91212612/216462748-c7dcb69b-5449-4870-866f-d2a89b143af6.png)
 ![image](https://user-images.githubusercontent.com/91212612/216462792-9ce476ba-3739-405d-85be-a34271479d01.png)
 
+The following images were produced using my scene rasterization software:
+
+![image](https://user-images.githubusercontent.com/91212612/216463667-31a29f77-c83d-4539-8133-bfd8b24d1413.png)
+![image](https://user-images.githubusercontent.com/91212612/216463999-3b707a67-d027-458c-9ccf-e08acdc54109.png)
+
 
